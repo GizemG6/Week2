@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week2_WhilevsDoWhile", "Wee
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week2_HolidayApp", "Week2_HolidayApp\Week2_HolidayApp.csproj", "{33CCA99C-054D-439F-9BA7-8F3C2AE272E1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week2-Method", "Week2-Method\Week2-Method.csproj", "{35AFDE8D-5E7C-4853-8F6E-B9626F094D0E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{33CCA99C-054D-439F-9BA7-8F3C2AE272E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33CCA99C-054D-439F-9BA7-8F3C2AE272E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33CCA99C-054D-439F-9BA7-8F3C2AE272E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35AFDE8D-5E7C-4853-8F6E-B9626F094D0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35AFDE8D-5E7C-4853-8F6E-B9626F094D0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35AFDE8D-5E7C-4853-8F6E-B9626F094D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35AFDE8D-5E7C-4853-8F6E-B9626F094D0E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
